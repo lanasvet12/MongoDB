@@ -16,7 +16,7 @@
     "mongodb",
     "express"
   ],
-  "author": "David Inyang-Etoh",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
